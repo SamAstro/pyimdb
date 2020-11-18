@@ -109,5 +109,3 @@ This project uses the following license: `LICENSE <./LICENSE>`__.
 .. |GitHub forks| image:: https://img.shields.io/github/forks/samastro/pyimdb?style=social
 .. |Twitter Follow| image:: https://img.shields.io/twitter/follow/samiadrappeau?style=social
 .. |ReadtheDocs| image:: https://readthedocs.org/projects/pyimdb/badge/?version=latest
-:target: https://pyimdb.readthedocs.io/en/latest/?badge=latest
-:alt: Documentation Status

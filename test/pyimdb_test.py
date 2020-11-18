@@ -23,7 +23,7 @@ def test_worst_movie():
 
 def test_best_one_man_band():
     roles = ['writer', 'director', 'actor']
-    assert dataset.best_one_man_band(roles) == "All Woody Allen's movies!"
+    assert dataset.best_one_man_band(roles) == "All Woody Allens movies!"
 
 def test_movies_longer_than():
     assert dataset.movies_longer_than(300) == 233
