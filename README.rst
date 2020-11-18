@@ -1,7 +1,7 @@
 pyimdb
 ======
 
-|GitHub repo size| |GitHub contributors| |GitHub stars| |GitHub forks|
+|ReadtheDocs| |GitHub repo size| |GitHub contributors| |GitHub stars| |GitHub forks|
 |Twitter Follow|
 
 pyimdb is a Python module that allows developers to query the IMDb's
@@ -108,3 +108,6 @@ This project uses the following license: `LICENSE <./LICENSE>`__.
 .. |GitHub stars| image:: https://img.shields.io/github/stars/samastro/pyimdb?style=social
 .. |GitHub forks| image:: https://img.shields.io/github/forks/samastro/pyimdb?style=social
 .. |Twitter Follow| image:: https://img.shields.io/twitter/follow/samiadrappeau?style=social
+.. |ReadtheDocs| image:: https://readthedocs.org/projects/pyimdb/badge/?version=latest
+:target: https://pyimdb.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
