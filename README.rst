@@ -21,7 +21,7 @@ Installing pyimdb
 
 To install pyimdb, follow these steps:
 
-1. Create a Python virtual environment
+1. Create a Python virtual environment (for example, conda)
 2. Install the requires packages
 3. Install the module
 
@@ -64,6 +64,18 @@ To use pyimdb, follow these steps:
     # How many movies are longer than five hours?
     dataset.movies_longer_than(300)
     > 233
+
+Documentation
+-------------
+
+To generate the documentation, follow thse steps:
+
+::
+
+    $ cd docs
+    $ make html
+
+The HTML pages are in `_build/html`.
 
 Contributing to pyimdb
 ----------------------
