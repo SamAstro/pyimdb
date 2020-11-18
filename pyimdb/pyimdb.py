@@ -47,7 +47,7 @@ class IMDb(object):
         # Other parts of loading data
 
         At the end, title_dict has a primary key of tid then the following dict:
-        {'type:str', 'title:str', 'duration:int',
+        {'type:str', 'title:str', 'duration:int', 'ratings:float',
          'directors:(array of nconsts)', 'writers:(array of nconsts)',
           'principals:(array of nconsts)'}
         """
