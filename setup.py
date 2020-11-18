@@ -21,5 +21,11 @@ setup(
     author_email='samia.drappeau@atad-bayanat.eu',
     url='https://github.com/samastro/pyimdb',
     license=license,
-    packages=find_packages(exclude=('tests', 'docs', 'data'))
+    packages=find_packages(exclude=('tests', 'docs', 'data')),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+    python_requires='>=3.6',
 )
