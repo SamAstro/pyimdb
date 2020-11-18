@@ -68,7 +68,7 @@ To use pyimdb, follow these steps:
 Documentation
 -------------
 
-To generate the documentation, follow thse steps:
+To generate the documentation, follow these steps:
 
 ::
 
